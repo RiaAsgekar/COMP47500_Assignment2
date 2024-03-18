@@ -1,1 +1,1 @@
-# COMP47500_Assignment2
+# COMP47500 Assignment2
