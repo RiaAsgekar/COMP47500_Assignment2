@@ -8,15 +8,15 @@ This assignment involves the implementation of three different types of binary t
 
 - **Main.java:** This file contains the main test class where experiments for insertion and search operations are conducted on BST, AVL Tree, and Splay Tree.
   
-- **Node.java:** This class defines the structure for the nodes used in BST and Splay trees.
+- **Node:** This class defines the structure for the nodes used in BST and Splay trees.
 
-- **BST.java:** Defines the Binary Search Tree and contains methods for insertion and search operations.
+- **BST:** Defines the Binary Search Tree and contains methods for insertion and search operations.
 
-- **AVLNode.java:** Defines the structure for the nodes used in AVL trees.
+- **AVLNode:** Defines the structure for the nodes used in AVL trees.
 
-- **AVLTree.java:** Implements the AVL Tree data structure and includes methods for insertion, balancing, and searching.
+- **AVLTree:** Implements the AVL Tree data structure and includes methods for insertion, balancing, and searching.
 
-- **Splay.java:** Implements the Splay Tree data structure and includes methods for insertion, rotation, and searching.
+- **Splay:** Implements the Splay Tree data structure and includes methods for insertion, rotation, and searching.
 
 **Experimentation:**
 
